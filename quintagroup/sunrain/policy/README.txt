@@ -11,7 +11,7 @@ Installation
 See docs/INSTALL.txt file for detailed installation instructions.
 
  **WARNING**
-  Be careful when doing theme reinstall. In case you need to reinstall the theme for any reasons - note that your custom actions will disappear and demo actions will appear instead. 
+  Be careful when doing product reinstall. In case you need to reinstall SunRain Policy for any reasons - note that your custom actions will disappear and demo actions will appear instead.
 
 Authors
 =======
